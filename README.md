@@ -20,6 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/mohamed-talhi-a200aa330/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohamed-talhi-a200aa330/" height="30" width="40" /></a>
+<a href="https://fb.com/mohamedtalhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedtalhi" height="30" width="40" /></a>
+<a href="https://instagram.com/mohamed_talhi_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_talhi_9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
